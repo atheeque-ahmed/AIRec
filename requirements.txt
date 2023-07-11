@@ -1,0 +1,12 @@
+streamlit-aggrid~=0.3.1
+matplotlib
+pandas
+seaborn
+streamlit~=1.24.0
+numpy
+nltk
+scikit-learn
+textblob
+tensorflow
+protobuf==3.20.0
+surprise
