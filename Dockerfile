@@ -16,6 +16,6 @@ COPY . .
 
 # Expose port
 EXPOSE 8501
-
-# Command to run the app
-CMD ["streamlit", "run", "recommender_app.py"]
+...
+# CMD streamlit run app.py
+CMD streamlit run --server.port $PORT recommender_app.py
