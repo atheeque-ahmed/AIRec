@@ -1,5 +1,5 @@
 # Pull base image
-FROM python:3.9
+FROM python:3.8
 
 # Set work directory in the container
 WORKDIR /app
