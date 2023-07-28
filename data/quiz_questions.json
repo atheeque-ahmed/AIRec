@@ -1,0 +1,12 @@
+{
+    "Question 1. Select the adjective sequence that aligns best with the natural English language order: \"She has a ________ car.\"": ["beautiful red", "red beautiful", "stunning red", "red stunning", "gorgeous red"],
+    "Question 2. Choose the grammatically correct verb form to complete the sentence: \"If I ________ you, I would take the job.\"": ["were", "am", "is", "was", "be"],
+    "Question 3. Select the word or phrase that accurately completes this common idiom: \"A bird in the hand is worth ________ in the bush.\"": ["two", "more than one", "better than nothing", "a lot", "nothing"],
+    "Question 4. Identify the sentence with the correct use of the relative pronoun:": ["The dog, which is brown, chased its tail.", "The book that is on the table is mine.", "The girl, who is wearing a blue dress, is my sister.", "The car that is parked outside belongs to John.", "The tree, which is in the backyard, is tall."],
+    "Question 5. Choose the grammatically correct verb form to complete the sentence: \"She ________ her keys yesterday.\"": ["lost", "loses", "lose", "has lost", "was losing"],
+    "Question 6. Identify the sentence that correctly employs the past perfect tense:": ["She had arrived home before I did.", "They had finished their dinner when we arrived.", "He had left for work before we woke up.", "We had gone to the beach the day before.", "The movie had started at 7 p.m."],
+    "Question 7. Choose the correct word to complete the analogy: \"Book is to reading as fork is to ________.": ["eating", "writing", "cooking", "cutting", "holding"],
+    "Question 8. Identify the sentence that appropriately uses a past participle:": ["The broken glass needs to be cleaned up.", "She had gone to the store.", "They have been running in the park.", "The movie will start soon.", "I have been studying all day."],
+    "Question 9. Choose the correct verb form to complete the sentence: \"The sun ________ in the east.": ["rises", "raises", "rose", "has risen", "is rising"],
+    "Question 10. Identify the sentence that correctly employs a comparative adjective:": ["This book is better than that one.", "She is the most beautiful girl in the class.", "He is taller than I am.", "The dog ran faster than its friend.", "It is the worst movie I've ever seen."]
+}

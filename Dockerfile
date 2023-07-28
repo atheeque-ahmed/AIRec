@@ -18,4 +18,4 @@ COPY . .
 EXPOSE 8501
 
 # CMD streamlit run app.py
-CMD streamlit run --server.port $PORT recommender_app.py
+CMD streamlit run --server.port $PORT Recommender_Engine.py
